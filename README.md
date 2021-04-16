@@ -1,2 +1,2 @@
 # HeroesOfPymoli
-lookin at some microtransactions. 
+This is a breakdown of microtransactions in the video game Heroes of Pymoli
